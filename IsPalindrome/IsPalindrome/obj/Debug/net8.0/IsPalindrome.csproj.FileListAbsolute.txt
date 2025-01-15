@@ -1,0 +1,14 @@
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\bin\Debug\net8.0\IsPalindrome.exe
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\bin\Debug\net8.0\IsPalindrome.deps.json
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\bin\Debug\net8.0\IsPalindrome.runtimeconfig.json
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\bin\Debug\net8.0\IsPalindrome.dll
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\bin\Debug\net8.0\IsPalindrome.pdb
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.AssemblyInfoInputs.cache
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.AssemblyInfo.cs
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.dll
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\obj\Debug\net8.0\refint\IsPalindrome.dll
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.pdb
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.genruntimeconfig.cache
+C:\Users\amnwh\source\repos\LeetCodePractice\IsPalindrome\IsPalindrome\obj\Debug\net8.0\ref\IsPalindrome.dll
